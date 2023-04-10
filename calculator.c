@@ -11,4 +11,12 @@ void sub(int x, int y)
   int z;
   z= x-y;
 }
-///// abdallah
+void multiplication(int x, int y)
+{
+  z= x*y;
+}
+
+void divide(int x, int y)
+{
+  z= x/y;
+}
